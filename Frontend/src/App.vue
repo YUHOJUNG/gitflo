@@ -6,6 +6,7 @@
 	<div class="first working">junghoyou2보다 먼저 작업하고 push한 부분</div>
 	<div class="second working">junghoyou2보다 먼저 작업하고 push한 부분 2번째</div>
 	<div class="third working">junghoyou2보다 먼저 작업하고 push한 부분 3번째</div>
+	<div class="third working">junghoyou2보다 먼저 작업하고 push한 부분 4번째</div>
   </div>
 </template>
 
