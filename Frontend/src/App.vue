@@ -22,6 +22,7 @@ export default {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: skyblue; /* 개행하지 않고 중간에 추가했을 경우 */
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
