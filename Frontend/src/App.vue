@@ -27,10 +27,7 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
-<<<<<<< HEAD
   display: flex;
-=======
   box-shadow: #2c3e50; /* junghoyou2가 먼저 했지롱 */
->>>>>>> origin/feature/login
 }
 </style>
