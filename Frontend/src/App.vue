@@ -3,6 +3,8 @@
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Welcome to git" />
     <div class="test">1줄 추가해서 style엘리먼트도 밀렸을 경우</div>
+	<div class="first working">junghoyou2보다 먼저 작업하고 push한 부분</div>
+	<div class="second working">junghoyou2보다 먼저 작업하고 push한 부분 2번째</div>
   </div>
 </template>
 
